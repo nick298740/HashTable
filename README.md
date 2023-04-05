@@ -1,4 +1,4 @@
-# HashTable
+README
 _____________________________________________________________________________________________________________
 
 Created by Nick Meyer for: CSCE2110 - Implementing a Hash Table
@@ -45,7 +45,7 @@ Bucket 9:
 { 111111 }
 Bucket 10:
 { }
---------------------------------------------------------
+
 
 
 Hash Table Contains 2 Nodes total
@@ -59,7 +59,7 @@ Hash Table Contains 2 Nodes total
 8:
 9:       O
 10:
---------------------------------------------------------
+
 
 We add 100 more nodes:
 
@@ -385,7 +385,7 @@ Bucket 9:
 { 39, 25, 20, 16, 18, 12, 6, 111111 }
 Bucket 10:
 { 41, 38, 32, 27, 15, 3 }
---------------------------------------------------------
+
 
 
 Hash Table Contains 52 Nodes total
@@ -399,25 +399,25 @@ Hash Table Contains 52 Nodes total
 8:       O O O O O O O
 9:       O O O O O O O O
 10:      O O O O O O
---------------------------------------------------------
+
 
 We lookup our first node with an ID of: 111111
---------------------------------------------------------
+
 Student found with an ID of: 111111
 Major:
 Computer Science
 GPA:
 1.9
---------------------------------------------------------
+
 
 We lookup our second node with an ID of: 111110:
---------------------------------------------------------
+
 Student found with an ID of: 111110
 Major:
 Mechanical Science
 GPA:
 3.99
---------------------------------------------------------
+
 
 We remove our first node...ID:111111:
 
@@ -443,7 +443,7 @@ Bucket 9:
 { 39, 25, 20, 16, 18, 12, 6 }
 Bucket 10:
 { 41, 38, 32, 27, 15, 3 }
---------------------------------------------------------
+
 
 
 Hash Table Contains 51 Nodes total
@@ -457,12 +457,12 @@ Hash Table Contains 51 Nodes total
 8:       O O O O O O O
 9:       O O O O O O O
 10:      O O O O O O
---------------------------------------------------------
+
 
 We lookup and print the node that we just removed (111111 does not exist):
---------------------------------------------------------
+
 Node not found.
---------------------------------------------------------
+
 
 We remove half the nodes:
 
@@ -488,7 +488,7 @@ Bucket 9:
 { 39, 25 }
 Bucket 10:
 { 41, 38, 32, 27 }
---------------------------------------------------------
+
 
 
 Hash Table Contains 26 Nodes total
@@ -502,4 +502,3 @@ Hash Table Contains 26 Nodes total
 8:       O O O O O
 9:       O O
 10:      O O O O
---------------------------------------------------------
