@@ -23,7 +23,7 @@ This Hash Table equally distributes values to buckets; handles potential collisi
 
 We add two nodes:
 
-
+ 
 Hash Table Bucket Values:
 Bucket 1:
 { 111110 }
