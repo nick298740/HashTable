@@ -1,4 +1,5 @@
 README
+For context, this was a project I worked on at the University of North Texas. I created this a long time ago, but decided to add some of my projects here publically as part of an ongoing portfolio.
 _____________________________________________________________________________________________________________
 
 Created by Nick Meyer for: CSCE2110 - Implementing a Hash Table
